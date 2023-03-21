@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TabsDemo</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="api_key">26dcbaa2166e40cba6b94a096b6af992</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="temp">Temp:</string>
+    <string name="min_temp">Min temp:</string>
+    <string name="max_temp">Max temp:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="feels_like">Feels like:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="data">Data</string>
+    <string-array name="cities">
+        <item>London</item>
+        <item>Moscow</item>
+        <item>Irkutsk</item>
+    </string-array>
+</resources>
