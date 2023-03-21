@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя Погода</string>
+    <string name="title">Введите город и узнайте погоду!</string>
+    <string name="api_key">26dcbaa2166e40cba6b94a096b6af992</string>
+    <string name="city_for_search">Введите город…</string>
+    <string name="search">Поиск</string>
+
+    <string name="city_name">Название города:</string>
+    <string name="wind_speed">Скорость ветра:</string>
+    <string name="temp">Температура:</string>
+    <string name="min_temp">Мин.Температура:</string>
+    <string name="max_temp">Макс.Температура:</string>
+    <string name="humidity">Влажность:</string>
+    <string name="feels_like">Чувствуется как:</string>
+    <string name="pressure">Давление:</string>
+    <string name="data">Данные</string>
+
+    <string name="btn">Назад</string>
+    <string name="ru">Русский язык</string>
+    <string name="en">Английский язык</string>
+</resources>
