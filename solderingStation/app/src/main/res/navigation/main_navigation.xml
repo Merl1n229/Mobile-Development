@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/powerFragment">
+
+    <fragment
+        android:id="@+id/powerFragment"
+        android:name="com.example.project.presentation.Main.PowerFragment"
+        android:label="fragment_power"
+        tools:layout="@layout/fragment_power" />
+    <fragment
+        android:id="@+id/airFragment"
+        android:name="com.example.project.presentation.Main.AirFragment"
+        android:label="fragment_air"
+        tools:layout="@layout/fragment_air" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.project.presentation.Main.MainFragment"
+        android:label="MainFragment" />
+    <fragment
+        android:id="@+id/studentsFragment"
+        android:name="com.example.project.presentation.Main.StudentsFragment"
+        android:label="fragment_students"
+        tools:layout="@layout/fragment_students" />
+</navigation>
